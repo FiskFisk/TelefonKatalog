@@ -1,0 +1,3 @@
+To set up the "Telefonkatalog" (Telephone Directory), you need to download both files. Once downloaded, navigate to the folder where they are saved and right-click the "TelefonKatalog.py" script.
+
+If you have Visual Studio Code installed, you can open the script there to view and run the code. If not, simply right-click the script and select "Run in Python." This will execute the script and open the "TelefonKatalog" application.
